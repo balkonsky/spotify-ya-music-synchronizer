@@ -1,0 +1,4 @@
+python_dotenv==0.9.1
+yandex-music==1.0.0
+spotipy==2.19.0
+loguru==0.5.3
